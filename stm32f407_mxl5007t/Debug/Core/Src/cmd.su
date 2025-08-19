@@ -1,0 +1,5 @@
+../Core/Src/cmd.c:63:6:cmd_prompt	0	static
+../Core/Src/cmd.c:83:6:set_IQ_filters_coeff	4	static
+../Core/Src/cmd.c:130:6:cmd_proc	192	static
+../Core/Src/cmd.c:526:6:init_cmd	0	static
+../Core/Src/cmd.c:532:6:cmd_parse	8	static

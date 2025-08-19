@@ -1,0 +1,14 @@
+../Core/Src/MxL5007_API.c:31:13:MxL_Set_Register	16	static
+../Core/Src/MxL5007_API.c:44:13:MxL_Get_Register	8	static
+../Core/Src/MxL5007_API.c:52:13:MxL_Soft_Reset	16	static
+../Core/Src/MxL5007_API.c:62:13:MxL_Loop_Through_On	16	static
+../Core/Src/MxL5007_API.c:78:13:MxL_Stand_By	16	static
+../Core/Src/MxL5007_API.c:93:13:MxL_Wake_Up	120	static
+../Core/Src/MxL5007_API.c:109:13:MxL_Tuner_Init	136	static
+../Core/Src/MxL5007_API.c:130:13:MxL_Tuner_RFTune	112	static
+../Core/Src/MxL5007_API.c:152:21:MxL_Check_ChipVersion	16	static
+../Core/Src/MxL5007_API.c:190:6:MxL_Print_ChipVersion	0	static
+../Core/Src/MxL5007_API.c:228:13:MxL_RFSynth_Lock_Status	16	static
+../Core/Src/MxL5007_API.c:240:13:MxL_REFSynth_Lock_Status	16	static
+../Core/Src/MxL5007_API.c:252:6:MxL_SetGain	8	static
+../Core/Src/MxL5007_API.c:260:13:MxL_Get_RSSI	32	static

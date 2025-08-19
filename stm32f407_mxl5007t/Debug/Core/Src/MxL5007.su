@@ -1,0 +1,3 @@
+../Core/Src/MxL5007.c:31:10:MxL5007_Init	128	static
+../Core/Src/MxL5007.c:240:10:MxL5007_RFTune	48	static
+../Core/Src/MxL5007.c:317:10:SetIRVBit	4	static

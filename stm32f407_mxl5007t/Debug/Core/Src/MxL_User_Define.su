@@ -1,0 +1,5 @@
+../Core/Src/MxL_User_Define.c:30:6:MxL_TIMEOUT_UserCallback	8	static
+../Core/Src/MxL_User_Define.c:57:10:MxL_I2C_Write	16	static
+../Core/Src/MxL_User_Define.c:83:10:MxL_I2C_Read	48	static
+../Core/Src/MxL_User_Define.c:114:6:MxL_Delay	0	static
+../Core/Src/MxL_User_Define.c:137:6:MxL_Set_IF_AGC_Volatge	8	static
