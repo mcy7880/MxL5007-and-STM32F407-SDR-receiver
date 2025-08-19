@@ -6,7 +6,7 @@ The UART console code is still based on Eric's Brombaugh's code: https://github.
 Porting, modification, improvements and SDR code was done by @mcy7880 Maciej Fajfer.
 
 # Doc
-Documentation, hardware schematic, original MxL5007T driver (previously mentioned) provided by MaxLinear and DVB-T set-top-box schematic (MSD7818 and MxL5007T) from Chinese website.
+Documentation, hardware schematic, original MxL5007T driver (previously mentioned) provided by MaxLinear and DVB-T set-top-box schematic (MSD7818 and MxL5007T) from Chinese website: https://www.dssz.com/2404336.html.
 
 # Matlab
 Matlab's script and *.FDA files for Filter Designer (fdatool).
