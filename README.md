@@ -13,3 +13,5 @@ Matlab's script and *.FDA files for Filter Designer (fdatool).
 
 # stm32f407_mxl5007t
 STM32F407 - the whole project from STM32IDE
+
+Lots of detials (in Polish): https://www.elektroda.pl/rtvforum/topic4135063.html
